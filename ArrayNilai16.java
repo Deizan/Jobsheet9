@@ -16,7 +16,6 @@ public class ArrayNilai16 {
             } else {
             System.out.println("Mahasiswa ke-"+i+" tidak lulus:!");
             System.out.println("testing");
-            System.out.println("testingbranch");
             }
         }
     }
