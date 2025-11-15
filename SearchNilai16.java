@@ -1,4 +1,4 @@
-public class SearchNilai07 {
+public class SearchNilai16 {
     public static void main(String[] args)  {
         int[] arrNilai = {80, 85, 78, 96, 90, 82, 86};
         int key = 90;
